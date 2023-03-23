@@ -1,1 +1,4 @@
-- Initial release
+- Adjusted some of the GUI
+- Slightly cleaned up GUI
+- Bug fixes
+- Added Dark WinForms
